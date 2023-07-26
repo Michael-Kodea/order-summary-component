@@ -213,13 +213,13 @@
 
       .header{
         font-size: 1.4rem;
-        margin-top: 30px;
+        margin-top: 25px;
       }
 
       .sub-text {
         width: 245px;
         font-size: .93rem;
-        margin-top: 18px;
+        margin-top: 17px;
         margin-left: 42px;
         margin-right: 42px;
         line-height: 1.6;
@@ -257,6 +257,7 @@
       }
 
       .button {
+        font-size: .9rem;
         width: 278px;
         margin-top: 25px;
         margin-left: 25px;
